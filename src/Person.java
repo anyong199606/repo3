@@ -26,7 +26,7 @@ public class Person {
         Class<?> clazz2 = loader1.loadClass("Person");
         System.out.println(clazz1.getClassLoader());
 
-        
+        System.out.println("hahah");
     }
 }
 class ClassLoader1 extends ClassLoader{
