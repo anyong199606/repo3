@@ -27,6 +27,7 @@ public class Person {
         System.out.println(clazz1.getClassLoader());
 
         System.out.println("hahah");
+        System.out.println("dfsdfsd");
     }
 }
 class ClassLoader1 extends ClassLoader{
